@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Ivan Ignatiev Blog</title>
+        <link>https://ivanignatiev.github.io</link>
+        <description>Ivan Ignatiev Blog</description>
+        <lastBuildDate>Tue, 21 Jan 2025 09:30:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Visual Communication Tools for Architecture]]></title>
+            <link>https://ivanignatiev.github.io/visual-communication-tools-for-architecture</link>
+            <guid>https://ivanignatiev.github.io/visual-communication-tools-for-architecture</guid>
+            <pubDate>Tue, 21 Jan 2025 09:30:00 GMT</pubDate>
+            <description><![CDATA[This article focuses on visual tools to represent IT architectures and resources for those tools.]]></description>
+            <content:encoded><![CDATA[<p>This article focuses on visual tools to represent IT architectures and resources for those tools.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-i-use">What I use<a href="https://ivanignatiev.github.io/visual-communication-tools-for-architecture#what-i-use" class="hash-link" aria-label="Direct link to What I use" title="Direct link to What I use">​</a></h2>
+<p>Tools for Ad-hoc communication, drafting, and wireframing:</p>
+<ul>
+<li><a href="https://excalidraw.com/" target="_blank" rel="noopener noreferrer">https://excalidraw.com/</a></li>
+<li><a href="https://www.figma.com/figjam/" target="_blank" rel="noopener noreferrer">https://www.figma.com/figjam/</a></li>
+<li><a href="https://miro.com/" target="_blank" rel="noopener noreferrer">https://miro.com/</a></li>
+<li><a href="https://xmind.app/" target="_blank" rel="noopener noreferrer">https://xmind.app/</a> (MindMaps)</li>
+</ul>
+<p>Tools to transform drafts to more presentable assets:</p>
+<ul>
+<li><a href="https://draw.io/" target="_blank" rel="noopener noreferrer">draw.io</a></li>
+<li><a href="https://www.microsoft.com/microsoft-365/visio/flowchart-software" target="_blank" rel="noopener noreferrer">Microsoft Visio</a></li>
+</ul>
+<p>Tools for use in documentation (Diagrams as a Code):</p>
+<ul>
+<li><a href="https://www.mermaidchart.com/play" target="_blank" rel="noopener noreferrer">Mermaid Playground</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-i-use-as-an-azure-consultant">What I use, As an Azure Consultant:<a href="https://ivanignatiev.github.io/visual-communication-tools-for-architecture#what-i-use-as-an-azure-consultant" class="hash-link" aria-label="Direct link to What I use, As an Azure Consultant:" title="Direct link to What I use, As an Azure Consultant:">​</a></h2>
+<ul>
+<li>In Enterprise world many documentation is done with <a href="https://www.microsoft.com/microsoft-365/visio/flowchart-software" target="_blank" rel="noopener noreferrer">Microsoft Visio</a></li>
+<li>Azure Services Icons from <a href="https://github.com/David-Summers/Azure-Design" target="_blank" rel="noopener noreferrer">Azure-Design repository</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/architecture/icons/" target="_blank" rel="noopener noreferrer">Official Azure Icons from Microsoft</a></li>
+<li>Visio files could be found in architectures from <a href="https://learn.microsoft.com/en-us/azure/architecture/browse/" target="_blank" rel="noopener noreferrer">Azure Architecture Center</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="other">Other<a href="https://ivanignatiev.github.io/visual-communication-tools-for-architecture#other" class="hash-link" aria-label="Direct link to Other" title="Direct link to Other">​</a></h2>
+<p>To make visual communication clear we need to decide on style and configure out tools:</p>
+<ul>
+<li>Color scheme</li>
+<li>Rounding</li>
+<li>Fonts</li>
+</ul>
+<p>That is why it is import to look around, analyze, and compare. When you look to graphic designer, photographer courses you you always find a section about "collecting inspirations", "observation and others work observation", "designer eye training".</p>
+<p>Here I like to maintain my collection for observability:</p>
+<ul>
+<li><a href="https://github.com/simskij/awesome-software-architecture?tab=readme-ov-file#tools" target="_blank" rel="noopener noreferrer">Tools section in Awesome Software Architecture</a></li>
+<li><a href="https://pbea.iankoenig.com/visio.php" target="_blank" rel="noopener noreferrer">Principal Based Enterprise Architecture (PBEA) stencils</a></li>
+<li><a href="https://www.archimatetool.com/" target="_blank" rel="noopener noreferrer">Archi - Archimate Tool</a></li>
+<li><a href="https://www.eraser.io/" target="_blank" rel="noopener noreferrer">Eraser</a></li>
+<li><a href="https://plantuml.com/" target="_blank" rel="noopener noreferrer">PlantUML</a></li>
+<li><a href="https://d2lang.com/" target="_blank" rel="noopener noreferrer">D2</a></li>
+<li><a href="https://www.ilograph.com/" target="_blank" rel="noopener noreferrer">Ilograph</a></li>
+<li><a href="https://c4model.com/tooling" target="_blank" rel="noopener noreferrer">C4 Model - Tooling</a></li>
+</ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
