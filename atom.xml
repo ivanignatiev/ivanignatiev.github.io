@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ivanignatiev.github.io</id>
     <title>Ivan Ignatiev Blog</title>
-    <updated>2025-01-21T09:30:00.000Z</updated>
+    <updated>2025-01-23T09:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ivanignatiev.github.io"/>
     <subtitle>Ivan Ignatiev Blog</subtitle>
     <icon>https://ivanignatiev.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Visual Communication Tools for Architecture]]></title>
+        <title type="html"><![CDATA[Note 2: Learning Git]]></title>
+        <id>https://ivanignatiev.github.io/learning-git</id>
+        <link href="https://ivanignatiev.github.io/learning-git"/>
+        <updated>2025-01-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Git is the foundation of collaboration within any coding team today. It’s a fundamental technical skill that can cause a daily pain if not mastered.]]></summary>
+        <content type="html"><![CDATA[<p>Git is the foundation of collaboration within any coding team today. It’s a fundamental technical skill that can cause a daily pain if not mastered.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="basics">Basics<a href="https://ivanignatiev.github.io/learning-git#basics" class="hash-link" aria-label="Direct link to Basics" title="Direct link to Basics">​</a></h2>
+<ul>
+<li>Book: <a href="https://learning.oreilly.com/library/view/learning-git/9781098133900/" target="_blank" rel="noopener noreferrer">O'Reilly - Anna Skoulikari - Learning Git</a></li>
+<li>Visual Tool: <a href="https://learngitbranching.js.org/" target="_blank" rel="noopener noreferrer">Learn Git Branching</a></li>
+<li><a href="https://gitimmersion.com/index.html" target="_blank" rel="noopener noreferrer">Git Immersion</a></li>
+<li><a href="https://gitbybit.com/" target="_blank" rel="noopener noreferrer">GitByBit</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="advanced">Advanced<a href="https://ivanignatiev.github.io/learning-git#advanced" class="hash-link" aria-label="Direct link to Advanced" title="Direct link to Advanced">​</a></h2>
+<p>Everything which will help to apply this tool in the real world practice and establish a good style shared across all project contributors.</p>
+<ul>
+<li><a href="https://ooloo.io/project/github-flow/mindset" target="_blank" rel="noopener noreferrer">ooloo.io github flow course</a></li>
+<li><a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank" rel="noopener noreferrer">Conventional Commits</a></li>
+<li><a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank" rel="noopener noreferrer">Git flow</a></li>
+<li>Best Practices for Git:<!-- -->
+<ul>
+<li><a href="https://about.gitlab.com/topics/version-control/version-control-best-practices/" target="_blank" rel="noopener noreferrer">https://about.gitlab.com/topics/version-control/version-control-best-practices/</a></li>
+</ul>
+</li>
+<li>Best Practices for GitHub:<!-- -->
+<ul>
+<li><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories" target="_blank" rel="noopener noreferrer">https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories</a></li>
+<li><a href="https://dev.to/pwd9000/github-repository-best-practices-23ck" target="_blank" rel="noopener noreferrer">https://dev.to/pwd9000/github-repository-best-practices-23ck</a></li>
+<li><a href="https://medium.com/datreeio/top-10-github-best-practices-for-developers-d6309a613227" target="_blank" rel="noopener noreferrer">https://medium.com/datreeio/top-10-github-best-practices-for-developers-d6309a613227</a></li>
+</ul>
+</li>
+<li>Best Practices for Azure Repos (Azure DevOps):<!-- -->
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops" target="_blank" rel="noopener noreferrer">https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="transversal-resources">Transversal Resources<a href="https://ivanignatiev.github.io/learning-git#transversal-resources" class="hash-link" aria-label="Direct link to Transversal Resources" title="Direct link to Transversal Resources">​</a></h2>
+<ul>
+<li><a href="https://roadmap.sh/git-github" target="_blank" rel="noopener noreferrer">Learn Git and GitHub roadmap</a></li>
+<li><a href="https://github.com/sindresorhus/awesome?tab=readme-ov-file#development-environment" target="_blank" rel="noopener noreferrer">Git recourses from awesome repository</a></li>
+<li>Free eBook: <a href="https://git-scm.com/book/en/v2" target="_blank" rel="noopener noreferrer">Pro Git</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tools">Tools<a href="https://ivanignatiev.github.io/learning-git#tools" class="hash-link" aria-label="Direct link to Tools" title="Direct link to Tools">​</a></h2>
+<ul>
+<li><a href="https://github.com/apps/desktop" target="_blank" rel="noopener noreferrer">GitHub Desktop</a></li>
+<li><a href="https://gitbutler.com/" target="_blank" rel="noopener noreferrer">GitButler</a></li>
+</ul>]]></content>
+        <author>
+            <name>Ivan Ignatiev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note 1: Visual Communication Tools for Architecture]]></title>
         <id>https://ivanignatiev.github.io/visual-communication-tools-for-architecture</id>
         <link href="https://ivanignatiev.github.io/visual-communication-tools-for-architecture"/>
         <updated>2025-01-21T09:30:00.000Z</updated>
