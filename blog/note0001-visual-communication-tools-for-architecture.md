@@ -1,6 +1,6 @@
 ---
 slug: visual-communication-tools-for-architecture
-title: Visual Communication Tools for Architecture 
+title: 'Note 1: Visual Communication Tools for Architecture'
 authors: ivanignatiev
 tags: []
 date: 2025-01-21T09:30
