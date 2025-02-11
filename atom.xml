@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ivanignatiev.github.io</id>
     <title>Ivan Ignatiev Blog</title>
-    <updated>2025-01-23T09:30:00.000Z</updated>
+    <updated>2025-02-11T09:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ivanignatiev.github.io"/>
     <subtitle>Ivan Ignatiev Blog</subtitle>
     <icon>https://ivanignatiev.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Note 4: Azure Boards Backlog Structure]]></title>
+        <id>https://ivanignatiev.github.io/azure-boards-backlog-structure</id>
+        <link href="https://ivanignatiev.github.io/azure-boards-backlog-structure"/>
+        <updated>2025-02-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Small 1 Team Projects]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="small-1-team-projects">Small 1 Team Projects<a href="https://ivanignatiev.github.io/azure-boards-backlog-structure#small-1-team-projects" class="hash-link" aria-label="Direct link to Small 1 Team Projects" title="Direct link to Small 1 Team Projects">​</a></h2>
+<p>Use default or customized SCRUM process. Optionally customize status (e.g., "Proposed” → "To Do,” "Committed” → "In Progress,” "Done” remains "Done”) and add custom fields to explicit product components.</p>
+<p>Below is a backlog structure, which you can easily visualize in Delivery Plans, to maintain flexibility for reporting:</p>
+<ol>
+<li>Product track:</li>
+</ol>
+<ul>
+<li><strong>Epic</strong>: formalize an objective in SMART way, description with "Why?"; when versioning lifecycle is well defined, the Epic can be as simple as "Product v10"</li>
+<li><strong>Feature</strong>: describe concrete deliverable which can require multiple sprints to deliver, which could have any external dependencies, or which could require multiple team members to collaborate ("AI App for Model X" can take effort from API + Data &amp; AI + UI)</li>
+<li><strong>PBI</strong>: 1 sprint concrete deliverable with 1 concrete responsible person ("1 REST API Endpoint to call model prediction" - API deliverable with Lead assigned, "Prediction visualizations X, Y, Z" - UI deliverable with Lead assigned, etc.)</li>
+<li><strong>Task</strong> (Optional): Tasks help explicit dependencies within PBI which requires multiple persons to collaborate</li>
+</ul>
+<ol start="2">
+<li>Continuous tracks (i.e. ideas, quality or tech debt):</li>
+</ol>
+<ul>
+<li>Epic as a bucket</li>
+<li>PBI for ideas and tech debt</li>
+<li>Bugs for quality issues</li>
+</ul>
+<p>Personally, I like <a href="https://bulletjournal.com/blogs/faq/migration" target="_blank" rel="noopener noreferrer">Migration</a> idea of bullet journal for refinement. If objective is changed, recreate a structure from Epic to Task. If more fine-grained tracking tracking is required, the items can be moved and reformulated to keep the same work item ID and change history.</p>
+<p>Avoid process over-engineering and adopt the level of details to team's context. Here is some ideas how to do it: <a href="https://www.svpg.com/principles-over-process/" target="_blank" rel="noopener noreferrer">Principles over Process - svpg</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="references">References<a href="https://ivanignatiev.github.io/azure-boards-backlog-structure#references" class="hash-link" aria-label="Direct link to References" title="Direct link to References">​</a></h2>
+<p>Best courses:</p>
+<ul>
+<li><a href="https://www.udemy.com/course/azure-devops-build-and-manage-your-requirements-backlog/?couponCode=JUST4U02223" target="_blank" rel="noopener noreferrer">Alan Slater - Build &amp; Manage your Requirements Backlog in Azure Devops</a></li>
+<li><a href="https://www.udemy.com/course/write-great-agile-requirements-in-just-118-minutes/?couponCode=JUST4U02223" target="_blank" rel="noopener noreferrer">Alan Slater - Agile Requirements Mastery: Essential skills in just 2 hours</a></li>
+</ul>
+<p>AI to break up tasks in smaller peaces:</p>
+<ul>
+<li><a href="https://goblin.tools/" target="_blank" rel="noopener noreferrer">goblin tools</a></li>
+</ul>]]></content>
+        <author>
+            <name>Ivan Ignatiev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Note 2: Learning Git]]></title>
         <id>https://ivanignatiev.github.io/learning-git</id>
@@ -91,6 +133,8 @@
 <li><a href="https://learn.microsoft.com/en-us/azure/architecture/icons/" target="_blank" rel="noopener noreferrer">Official Azure Icons from Microsoft</a></li>
 <li>Visio files could be found in architectures from <a href="https://learn.microsoft.com/en-us/azure/architecture/browse/" target="_blank" rel="noopener noreferrer">Azure Architecture Center</a></li>
 </ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="animations">Animations<a href="https://ivanignatiev.github.io/visual-communication-tools-for-architecture#animations" class="hash-link" aria-label="Direct link to Animations" title="Direct link to Animations">​</a></h2>
+<p>draw.io support flow animations and they can be saved in SVG to get results like <a href="https://github.com/ivanignatiev/azure-aks-cert-manager/blob/main/architecture/aks-ingress-encryption.drawio.svg" target="_blank" rel="noopener noreferrer">this</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="other">Other<a href="https://ivanignatiev.github.io/visual-communication-tools-for-architecture#other" class="hash-link" aria-label="Direct link to Other" title="Direct link to Other">​</a></h2>
 <p>To make visual communication clear we need to decide on style and configure out tools:</p>
 <ul>
