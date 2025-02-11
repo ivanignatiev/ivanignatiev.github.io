@@ -32,6 +32,10 @@ Tools for use in documentation (Diagrams as a Code):
 - [Official Azure Icons from Microsoft](https://learn.microsoft.com/en-us/azure/architecture/icons/)  
 - Visio files could be found in architectures from [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 
+## Animations
+
+draw.io support flow animations and they can be saved in SVG to get results like [this](https://github.com/ivanignatiev/azure-aks-cert-manager/blob/main/architecture/aks-ingress-encryption.drawio.svg).
+
 ## Other
 
 To make visual communication clear we need to decide on style and configure out tools:
